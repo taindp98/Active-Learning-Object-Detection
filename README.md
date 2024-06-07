@@ -26,7 +26,7 @@ The repository is structured as follows:
 - **data/**: This directory contains scripts and utilities for downloading and preprocessing benchmark datasets.
 - **output/**: This directory contains processes' outcome including logs and checkpoints.
 - **scripts/**: This directory is intended to store experimental scripts.
-- **src/**: This directory contains the source code for training, evaluating, and visualizing GNN models.
+- **src/**: This directory contains the source code for training, evaluating, and visualizing models.
 - **README.md**: This file contains information about the project, including installation instructions, usage examples, and a description of the repository structure.
 - **environment.yml**: This file lists all Python dependencies required to run the project.
 - **.gitignore**: This file specifies which files and directories should be ignored by Git version control.
