@@ -1,5 +1,5 @@
 # Hierarchical Uncertainty Aggregation and Emphasis Loss for Active Learning in Object Detection
-This repository contains supplemental materials for the IEEE BigData 2023 special session Machine Learning paper: **[Hierarchical Uncertainty Aggregation and Emphasis Loss for Active Learning in Object Detection](https://www.researchgate.net/profile/Toan-Khoa-Nguyen/publication/377601669_Hierarchical_Uncertainty_Aggregation_and_Emphasis_Loss_for_Active_Learning_in_Object_Detection/links/65e72c94adf2362b637827e5/Hierarchical-Uncertainty-Aggregation-and-Emphasis-Loss-for-Active-Learning-in-Object-Detection.pdf)**
+This repository contains supplemental materials for the IEEE BigData 2023 special session Machine Learning paper: **[[Paper]](https://www.researchgate.net/profile/Toan-Khoa-Nguyen/publication/377601669_Hierarchical_Uncertainty_Aggregation_and_Emphasis_Loss_for_Active_Learning_in_Object_Detection/links/65e72c94adf2362b637827e5/Hierarchical-Uncertainty-Aggregation-and-Emphasis-Loss-for-Active-Learning-in-Object-Detection.pdf)**
 
 ![huale](./materials/huale.png)
 
